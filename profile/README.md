@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://hmt-network.de/assets/img/logo/Applications/Moderator.png" alt="GrüneEule Logo" width="1000"/>
-</p>
-
 # **HMT Network**
 
 Willkommen beim HMT Network.  
@@ -11,10 +7,7 @@ Tauche ein in die einzigartige Welt des HMT Networks und erlebe Minecraft Multip
 
 ## 🌐 Links
 
-- [Website](https://hmt-network.de)
-- [Blog](https://hmt-network.de/blog)
 - [Discord](https://hmt-network.de/dc)
-- [Status](https://hmt-network.de/status)
 
 ---
 
